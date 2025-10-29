@@ -1,4 +1,4 @@
-# Lilith Linux
+# Lilith OS
 
 > **⚠️ Currently under active development** - Not yet ready for production use
 
@@ -63,7 +63,7 @@ Interested in contributing? Feel free to open issues or reach out. Contribution 
 
 ## License
 
-Lilith Linux is primarily released under the BSD-3-Clause License. Individual packages retain their original licenses.
+Lilith OS is primarily released under the BSD-3-Clause License. Individual packages retain their original licenses.
 
 ---
 
