@@ -45,7 +45,7 @@ hclos update && hclos upgrade
 
 ## System Requirements
 
-- x86_64 or ARM64 architecture
+- x86_64 architecture
 - 256MB RAM minimum (512MB recommended)
 - 2GB disk space for base system
 
